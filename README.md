@@ -1,7 +1,4 @@
-- 👋 Hi, I’m rawan gamal
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Deep Learning
-- 📫 my LinkedIn profile linkedin.com/in/rawan-gamal-41aa0024b
+
 
 
 <!---
