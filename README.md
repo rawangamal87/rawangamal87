@@ -54,7 +54,6 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### Automation & Workflow Tools
 
-![n8n](https://img.shields.io/badge/n8n-ff6d5a?style=for-the-badge)
 ![Make](https://img.shields.io/badge/Make-purple?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/AI%20Automation-blue?style=for-the-badge)
 
