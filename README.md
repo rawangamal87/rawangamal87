@@ -88,13 +88,9 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### Data & Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge) ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)
 
 ---
 
