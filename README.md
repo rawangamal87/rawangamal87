@@ -68,9 +68,7 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### AI Frameworks & Tools
 
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge)
 
