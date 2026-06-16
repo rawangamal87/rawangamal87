@@ -1,68 +1,181 @@
+# Hi 👋, I'm Rewan Gamal
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI GIF"/>
-</p>
+### AI Engineer | NLP Enthusiast | AI Automation Developer | Content Creator
 
-<h1 align="center">👋 Hello, I'm Rawan Gamal</h1>
-
-🎓 **AI & Data Science Engineer**  
-📍 Cairo, Egypt  
-💬 Passionate about solving real-world problems with **Machine Learning**, **NLP**, **LLMs**, and **Computer Vision**  
-🚀 Currently building & teaching deep learning projects, exploring **GenAI** & **Azure Cloud**
+Building intelligent systems that transform unstructured data into actionable insights using NLP, RAG, AI Agents, and Automation.
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🧑‍🏫 AI Instructor at **Google Developer Group (GDG)** & The Way Company  
-- 🎓 Graduate in **Business Information Systems**  
-- 👩‍💻 Built real-time AI apps using Python, TensorFlow, and Streamlit  
-- 🌱 Advocate for sustainability-focused AI  
-- 🤝 Open to collaboration on open-source & impactful AI projects  
+🎓 Business Information Systems Graduate
 
----
+🤖 Passionate about Artificial Intelligence and Natural Language Processing
 
-## 🔧 Technical Skills
+🧠 Interested in:
+- Machine Learning
+- Deep Learning
+- NLP
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- AI Automation
+- Generative AI
 
-**Languages:** Python, Java, C++  
-**AI/ML:** Scikit-learn, TensorFlow, Keras, Hugging Face, ONNX  
-**Data Tools:** Power BI, SQL, Kafka, Streamlit  
-**Cloud:** Microsoft Azure  
-**Soft Skills:** Communication, Presentation, Teamwork  
+🎤 Content Creator and Keynote Speaker in Tech Events
 
----
+📚 Currently expanding my expertise in AI Engineering, AI Automation, Azure, and Advanced NLP Applications
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [📰 Sentiment Analysis](https://github.com/rawangamal87/Sentiment-Analysis) | 92% accuracy using Logistic Regression & Random Forest on emotion data. |
-| [😷 Face Mask Detection](https://github.com/rawangamal87/Face-Mask-Detection-) | CNN-based real-time mask detection using TensorFlow + OpenCV. |
-| [🛰️ Land Type Classification](https://github.com/basmalagamal/Land-Type-Classification-DEPI-Project) | CNN to classify urban/vegetation/water from satellite images. Deployed with Streamlit. |
-| [🎨 Text-to-Image Generation](https://github.com/rawangamal87/-Text-to-Image-Generation-with-LLM-Hugging-Face) | AI-powered image generation app using Stable Diffusion & Hugging Face. |
-| [♻️ Recycling Awareness Website](https://github.com/rawangamal87/Rascalny-website-and-ChatBot) | Interactive chatbot website for recycling education. Frontend built with HTML, CSS, JS. |
+🌱 Always learning and building practical AI solutions
 
 ---
 
-## 🏆 Achievements
+## 💻 Tech Stack
 
-- 🥉 **3rd Place** – Al-Abakera National Graduation Competition  
-- 🇪🇬 Qualified – **Huawei Global Competition** (Cloud, Big Data, and AI Track)
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Artificial Intelligence & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-orange?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge)
+
+### AI Frameworks & Tools
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-blueviolet?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+
+### Automation & Workflow Tools
+
+![n8n](https://img.shields.io/badge/n8n-ff6d5a?style=for-the-badge)
+![Make](https://img.shields.io/badge/Make-purple?style=for-the-badge)
+![Automation](https://img.shields.io/badge/AI%20Automation-blue?style=for-the-badge)
+
+### Data & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
+
+### Cloud
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge)
 
 ---
 
-## 📫 Let's Connect
+## 🏆 What I Build
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/rawan-gamal-41aa0024b/)
-- [💻 GitHub](https://github.com/rawangamal87)
-- 📧 Email: rewanngamal143@gmail.com
+### 🤖 AI Agents
+Developing intelligent agents capable of:
+- Multi-step reasoning
+- Tool usage
+- Memory integration
+- Retrieval systems
+- Workflow automation
+
+### 📚 RAG Applications
+Building Retrieval-Augmented Generation systems using:
+- LangChain
+- ChromaDB
+- Local LLMs
+- Document Processing Pipelines
+
+### 📝 NLP Solutions
+Working on:
+- Text Classification
+- Information Extraction
+- Arabic NLP
+- Sentiment Analysis
+- Entity Extraction
+
+### ⚡ AI Automation
+Creating automated workflows that combine:
+- LLMs
+- APIs
+- AI Agents
+- Business Processes
+- No-Code & Low-Code Automation Tools
 
 ---
 
-> “I believe that AI, when guided by purpose and empathy, can change the world.” 🌍💡
+## 📌 Featured Projects
 
+### 🧾 Tax AI Assistant
+RAG-powered assistant for answering tax-related questions using:
+- LangChain
+- ChromaDB
+- Ollama
+- Streamlit
 
-<!---
-rawangamal87/rawangamal87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🏠 Real Estate Intelligence System
+Machine Learning and NLP solution for:
+- Offer/Request Classification
+- Price Extraction
+- Area Extraction
+- Location Detection
+- Google Maps Coordinate Extraction
+
+### 🤖 AI Agent Projects
+Building autonomous agents capable of:
+- Planning
+- Retrieval
+- Tool Calling
+- Decision Making
+
+### ⚡ AI Automation Workflows
+Developing automated systems for:
+- Content Generation
+- Data Processing
+- Business Automation
+- AI-powered Workflows
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawangamal87&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawangamal87&layout=compact)
+
+---
+
+## 🎯 2026 Goals
+
+- Build Production-Level AI Agents
+- Master Advanced NLP
+- Deploy AI Solutions on Azure
+- Contribute to Open Source AI Projects
+- Become a Kaggle Expert
+- Build End-to-End AI Automation Systems
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: [Add Your LinkedIn Link]
+
+📧 Email: [Add Your Email]
+
+🏆 Kaggle: [Add Your Kaggle Profile]
+
+🌐 Portfolio: [Add Your Portfolio]
+
+---
+
+### 💡 Favorite Quote
+
+"Artificial Intelligence becomes powerful when it solves real problems."
