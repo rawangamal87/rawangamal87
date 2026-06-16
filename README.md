@@ -44,19 +44,13 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### Artificial Intelligence & Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
-
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-darkred?style=for-the-badge)
 
-![LLMs](https://img.shields.io/badge/LLMs-orange?style=for-the-badge)
 
-![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge) ![LLMs](https://img.shields.io/badge/LLMs-orange?style=for-the-badge)
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge)
 
 ---
 
