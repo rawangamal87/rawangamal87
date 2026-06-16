@@ -38,9 +38,7 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk\&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 ---
 
