@@ -6,7 +6,7 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 Business Information Systems Graduate
 
