@@ -151,6 +151,37 @@ Developing automated systems for:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawangamal87&layout=compact)
 
 ---
+## 🎤 Community & Leadership
+
+### 📺 AI on Ramadan Table Program
+
+Designed and hosted an AI-focused Ramadan program called **"AI on Ramadan Table"**, simplifying Artificial Intelligence concepts and discussing real-world AI applications for a broader audience.
+
+### 🎙️ Podcast Guest Speaker
+
+Featured as a guest speaker on a technology podcast, sharing insights about Artificial Intelligence, Machine Learning, and the future of AI technologies.
+
+### 🧑‍🏫 AI Education & Public Speaking
+
+* AI Instructor and Technical Trainer
+* Keynote Speaker at technology events and workshops
+* Content Creator focused on AI and emerging technologies
+---
+
+## 🏆 Achievements & Recognition
+
+🥉 3rd Place — Al-Abakera National Graduation Competition
+
+🇪🇬 Qualified for Huawei Global Competition (Cloud, Big Data & AI Track)
+
+🎤 Guest Speaker in Technology Podcasts
+
+📺 Creator & Host of "AI on Ramadan Table"
+
+🧑‍🏫 AI Instructor and Workshop Speaker
+
+🌍 Active Contributor to AI Community Awareness and Education
+---
 
 ## 🎯 2026 Goals
 
