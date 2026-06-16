@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rewan Gamal
+# 👋 Hello, I'm Rawan Gamal
 
 ### AI Engineer | NLP & Computer Vision Developer | AI Automation Instructor | Content Creator
 
