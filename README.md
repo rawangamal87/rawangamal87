@@ -166,13 +166,11 @@ Developing automated systems for:
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: [Add Your LinkedIn Link]
+💼 LinkedIn: https://www.linkedin.com/in/rawan-gamal-41aa0024b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-📧 Email: [Add Your Email]
+📧 Email: rawanga224@gmail.com
 
-🏆 Kaggle: [Add Your Kaggle Profile]
-
-🌐 Portfolio: [Add Your Portfolio]
+🌐 Portfolio: https://lumen-logic-folio.lovable.app/
 
 ---
 
