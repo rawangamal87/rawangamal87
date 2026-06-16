@@ -68,17 +68,11 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### AI Frameworks & Tools
 
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge) ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
 
-![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge)
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-blueviolet?style=for-the-badge)
-
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-blueviolet?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
 
 ---
 
