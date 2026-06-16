@@ -72,11 +72,7 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### Automation & Workflow Tools
 
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge\&logo=zapier\&logoColor=white)
-
-![Make](https://img.shields.io/badge/Make-purple?style=for-the-badge)
-
-![Automation](https://img.shields.io/badge/AI%20Automation-blue?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge\&logo=zapier\&logoColor=white) ![Make](https://img.shields.io/badge/Make-purple?style=for-the-badge) ![Automation](https://img.shields.io/badge/AI%20Automation-blue?style=for-the-badge)
 
 ---
 
@@ -90,13 +86,7 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### Development Tools
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
 
 ---
 
