@@ -47,10 +47,7 @@ Building intelligent systems that transform unstructured data into actionable in
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-darkred?style=for-the-badge)
 
-
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge) ![LLMs](https://img.shields.io/badge/LLMs-orange?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge) ![LLMs](https://img.shields.io/badge/LLMs-orange?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge)
 
 ---
 
@@ -72,9 +69,7 @@ Building intelligent systems that transform unstructured data into actionable in
 
 ### Data & Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge) ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge) ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)
 
 ---
 
